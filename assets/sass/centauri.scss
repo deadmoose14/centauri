@@ -2,8 +2,8 @@
 $max-width: {{ .Param "style.pageWidth" | default "750px;" }};
 
 // Colors 
-$bg: {{ .Param "style.colorBlack" | default "#222222" }};
-$fg: {{ .Param "style.colorBlack" | default "#dc3545" }};
+$bg: {{ .Param "style.colorBG" | default "#191724" }};
+$fg: {{ .Param "style.colorFG" | default "#eb6f92" }};
 
 // Fonts 
 $font-family: {{ .Param "style.fontFamily" | default "Inconsolata" }};
@@ -11,6 +11,7 @@ $font-family: {{ .Param "style.fontFamily" | default "Inconsolata" }};
 // Margins
 $y-small: 0.6rem;
 $y-medium: 1.0rem;
+
 
 // layouts
 %link-default { 
@@ -41,9 +42,14 @@ $y-medium: 1.0rem;
     text-align: left;
 }
 
+body { 
+    background-color: $bg
+}
+
 // Style 
 * { 
-    color: $bg;
+    background-color: $bg;
+    color: $fg;
     font-family: $font-family;
     line-height: 1.2;
 }
@@ -58,13 +64,16 @@ $y-medium: 1.0rem;
     @extend %link-default;
 }
 #content { 
+    background-color: $bg;
     a { 
         @extend %link-default;
     }
     p { 
+        background-color: $bg;
         margin-bottom: $y-small;
     }
     h1, h2, h3, h4, h5, h6 { 
+        background-color: $bg;
         font-size: medium;
         font-weight: bold;
         margin: $y-medium 0 $y-small 0;
@@ -95,6 +104,7 @@ $y-medium: 1.0rem;
         }
     }
     .container > ol, .footnotes > ol { 
+        background-color: $bg;
         padding-left: 0;
     }
     ul { 
@@ -147,8 +157,8 @@ $y-medium: 1.0rem;
 }
 #footer { 
     a { 
+        background-color: $bg;
         @extend %link-dark;
     }
 }
-
 
