@@ -1,0 +1,8 @@
+name = "centauri"
+license = "GPL-3.0"
+min_version = "0.74.3"
+
+[author]
+    name = "Jonathan Levy"
+    homepage = "https://github.com/deadmoose14"
+

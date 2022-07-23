@@ -1,0 +1,47 @@
+title = "Centauri"
+baseURL = "http://example.org/"
+languageCode = 'en-us'
+theme = "centauri"
+disableKinds = ["taxonomy", "term"]
+math = true
+
+[params]
+    author = "J. Levy"
+    description = "Theme for my class website"
+    # favicon = "favicon.ico"
+    [params.footer]
+        text = "J. Levy"
+        url = "http://github.com/deadmoose14"
+    [params.style] # appearance settings, links to scss in assets
+        fontFamily = "Inconsolata" 
+        pageWidth = "750px"
+        colorBG = "#191724"
+        colorFG = "#eb6f92"
+    [[params.socialIcons]]
+        icon = "fas fa-envelope"
+        title = "E-mail"
+        url = "mailto:levy@jdlmath.com"
+
+[permalinks]
+    "/" = "/:filename"
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        name = "About"
+        url = "/about"
+        weight = 2
+    [[menu.main]]
+        name = "Posts"
+        url = "/posts"
+        weight = 3
+    [[menu.main]]
+        name = "Contact"
+        url = "/contact"
+        weight = 4
+
+[markup.goldmark.renderer]
+    unsafe = true 
