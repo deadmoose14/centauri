@@ -21,6 +21,5 @@ MyNotes
 ## Arithmetic Rules
 **Def:** A **complex number** is an ordered pair $(a,b)$ where $a,b \in \mathbb{R}$, is written as $a+bi$.
 
-**Def:** The set of all complex numbers, denoted as $\mathbb{C}$:
 
-$\mathbb{C}=\{\}$
+The **Gamma Function** $\Gamma(z) = \int_0^\infty t^{z-1} e^{-t}\,dt$
