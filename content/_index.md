@@ -22,25 +22,6 @@ Blockquotes
 
 Here is a `code` block. 
 
-```C
-#include <stdio.h>
-
-int main(int argc, char **argv)
-{
-    return 0;
-}
-```
-
-```Haskell
-import Control.Monad.State
-fib n = flip evalState (0,1) $ do
-    forM [0..(n-1)] $ \_ -> do 
-        (a,b) <- get 
-        put (b, a+b)
-    (a,b) <- get 
-    return a
-```
-
 ```R
 stirling <- function(z) sqrt(2*pi/z) * (exp(-1)*z)^2
 
@@ -86,7 +67,7 @@ spouge <- function(z, a=49)
 }
 ```
 
-![Example](ex.png)
+<!-- ![Example](ex.png) -->
 
 # References
 [^1]: Made you look. 
