@@ -86,6 +86,7 @@ spouge <- function(z, a=49)
 }
 ```
 
+![Example](ex.png)
 
 # References
 [^1]: Made you look. 
