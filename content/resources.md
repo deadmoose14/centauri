@@ -31,3 +31,12 @@ Let $a,b,c \in \mathbb{R}$
 Property | Addition | Multiplication
 ---------|----------|----------------
 Associativity|$a+(b+c)=(a+b)+c| a(bc)=(ab)c
+
+$\begin{table}[!ht]
+    \centering
+    \begin{tabular}{|l|l|l|}
+    \hline
+        Property & Addition & Multiplication \\ \hline
+        Associativity & \$a+(b+c)=(a+b)+c & a(bc)=(ab)c \\ \hline
+    \end{tabular}
+\end{table}$
