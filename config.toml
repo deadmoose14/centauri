@@ -13,10 +13,10 @@ math = true
         text = "J. Levy"
         url = "http://github.com/deadmoose14"
     [params.style] # appearance settings, links to scss in assets
-        fontFamily = "Inconsolata" 
+        fontFamily = "Fira Code" 
         pageWidth = "750px"
         colorBG = "#191724"
-        colorFG = "#eb6f92"
+        colorFG = "#e0def4"
     [[params.socialIcons]]
         icon = "fas fa-envelope"
         title = "E-mail"

@@ -3,10 +3,12 @@ $max-width: {{ .Param "style.pageWidth" | default "750px;" }};
 
 // Colors 
 $bg: {{ .Param "style.colorBG" | default "#191724" }};
-$fg: {{ .Param "style.colorFG" | default "#eb6f92" }};
+$fg: {{ .Param "style.colorFG" | default "#e0def4" }};
+$hr: {{ .Param "style.colorHR" | default "#524f67" }};
+$body: {{ .Param "style.colorBODY" | default "26233a"}};
 
 // Fonts 
-$font-family: {{ .Param "style.fontFamily" | default "Inconsolata" }};
+$font-family: {{ .Param "style.fontFamily" | default "Fira Code" }};
 
 // Margins
 $y-small: 0.6rem;
@@ -26,24 +28,24 @@ $y-medium: 1.0rem;
     }
 }
 %link-dark { 
-    color: $bg;
+    color: $fg;
     text-decoration: none;
     & * { 
-        color: $bg;
+        color: $fg;
     }
     &:hover { 
-        color: $bg;
+        color: $fg;
         text-decoration: underline;
     }
 }
 %table-cell { 
-    border: 1px solid #cccccc;
+    border: 1px solid #e0def4;
     padding: 6px 12px;
     text-align: left;
 }
 
 body { 
-    background-color: $bg
+    background-color: $bg;
 }
 
 // Style 
@@ -53,6 +55,11 @@ body {
     font-family: $font-family;
     line-height: 1.2;
 }
+hr {
+    background-color: $hr;
+    border-width:2px;
+}
+
 .container { 
     max-width: $max-width;
 }
@@ -140,10 +147,10 @@ body {
     }
     code { 
         color: $bg;
-        background-color: #f8f8f8;
-        border: 1px solid #cccccc;
+        background-color: $fg;
+        border: 1px solid $fg;
         border-radius: 10%;
-        padding: 0px 4px;
+        padding: 1px 1px;
     }
     pre code { 
         all: unset;
@@ -151,13 +158,14 @@ body {
     .highlight { 
         margin: $y-medium auto;
         & > pre { 
-            padding: 8px 8px;
+            border: 1px solid #e0def4;
+            padding: 1px 1px;
         }
     }
 }
 #footer { 
     a { 
-        background-color: $bg;
+        background-color: $bg; 
         @extend %link-dark;
     }
 }
