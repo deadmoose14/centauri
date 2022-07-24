@@ -32,5 +32,5 @@ Property | Addition | Multiplication
 ---------|----------|----------------
 Associativity|$$a+(b+c)=(a+b)+c$$|$$a(bc)=(ab)c$$
 Commutativity|$$a+b=b+a$$|$$ab=ba$$
-Inverse|$$a+(-a)=0$$|$$a\frac{1}{a} = 1$$
+Inverse|$$a+(-a)=0$$|$$a\times\frac{1}{a} = 1$$
 
