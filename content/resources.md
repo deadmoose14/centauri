@@ -23,4 +23,4 @@ MyNotes
 
 **Def:** The set of all complex numbers, denoted as $\mathbb{C}$:
 
-$\mathbb{C}: a+bi : a,b \in \mathbb{C}$
+$\mathbb{C} = {a+bi : a,b \in \mathbb{C}}$
