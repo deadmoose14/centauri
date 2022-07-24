@@ -1,2 +1,2 @@
 Here ya go. 
-![Example](ex.png)
+![Example](/static/ex.png)
