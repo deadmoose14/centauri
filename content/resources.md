@@ -22,4 +22,4 @@ MyNotes
 **Def:** A **complex number** is an ordered pair $(a,b)$ where $a,b \in \mathbb{R}$, is written as $a+bi$.
 
 
-The **Gamma Function** $\Gamma(z) = \int_0^\infty t^{z-1} e^{-t}\dt$
+The **Gamma Function** $\Gamma(z) = \int_0^\infty t^{z-1} e^{-t}dt$
