@@ -24,15 +24,12 @@ MyNotes
 
 The **Gamma Function** $\Gamma(z) = \int_0^\infty t^{z-1} e^{-t}dt$
 
-### Field Axioms for $\mathbb{R}
+### Field Axioms
 
 Let $a,b,c \in \mathbb{R}$
 
 Property | Addition | Multiplication
 ---------|----------|----------------
-Associativity|a+(b+c)=(a+b)+c|a(bc)=(ab)c
-Commutativity|a+b=b+c|ab=bc
-Identity|a+0=a|a\*1=a
-Inverse|a+(-a)=0|a\*$$\frac{1}{a}$$
-
+Associativity|$$a+(b+c)=(a+b)+c$$|$$a(bc)=(ab)c
+Commutativity|$$a+b=b+a$$|$$ab=ba
 
