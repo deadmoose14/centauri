@@ -3,6 +3,7 @@ title: ""
 date: 2022-07-23T17:51:55-04:00
 draft: false
 ---
+
 # Posts
 Important updates will go here, including quick links to each respective classes notes[^1]/assignments[^2] issued for the day. 
 
