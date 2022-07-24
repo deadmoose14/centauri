@@ -19,4 +19,4 @@ MyNotes
 <hr>
 
 ## Arithmetic Rules
-Let $\frac{a}{b}$
+Let $a,b \in \mathbb{R}$
