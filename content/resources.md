@@ -30,13 +30,9 @@ Let $a,b,c \in \mathbb{R}$
 
 Property | Addition | Multiplication
 ---------|----------|----------------
-Associativity|$a+(b+c)=(a+b)+c| a(bc)=(ab)c
+Associativity|a+(b+c)=(a+b)+c|a(bc)=(ab)c
+Commutativity|a+b=b+c|ab=bc
+Identity|a+0=a|a\*1=a
+Inverse|a+(-a)=0|a\*$$\frac{1}{a}$$
 
-$\begin{table}[!ht]
-    \centering
-    \begin{tabular}{|l|l|l|}
-    \hline
-        Property & Addition & Multiplication \\ \hline
-        Associativity & \$a+(b+c)=(a+b)+c & a(bc)=(ab)c \\ \hline
-    \end{tabular}
-\end{table}$
+
