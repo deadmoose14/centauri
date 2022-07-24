@@ -30,6 +30,6 @@ Let $a,b,c \in \mathbb{R}$
 
 Property | Addition | Multiplication
 ---------|----------|----------------
-Associativity|$$a+(b+c)=(a+b)+c$$|$$a(bc)=(ab)c
-Commutativity|$$a+b=b+a$$|$$ab=ba
+Associativity|$$a+(b+c)=(a+b)+c$$|$$a(bc)=(ab)c$$
+Commutativity|$$a+b=b+a$$|$$ab=ba$$
 
