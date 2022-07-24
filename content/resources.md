@@ -19,4 +19,8 @@ MyNotes
 <hr>
 
 ## Arithmetic Rules
-Let $a,b \in \mathbb{R}$
+**Def:** A **complex number** is an ordered pair $(a,b)$ where $a,b \in \mathbb{R}$, is written as $a+bi$.
+
+**Def:** The set of all complex numbers, denoted as $\mathbb{C}$:
+
+$\mathbb{C}: a+bi : a,b \in \mathbb{C}$
