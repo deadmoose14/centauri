@@ -28,9 +28,8 @@ $$\frac{a}{b} + \frac{c}{d} = \frac{ad+bc}{bd} $$
 
 
 ## Exponent Properties 
-\begin{align}
+$$\begin{align}
+a^{n}a^{m}=a^{n+m}
 
-$$a^{n}a^{m}=a^{n+m}$$
-
-$$(a^{n})^{m}=a^{nm}$$
-\end{align}
+(a^{n})^{m}=a^{nm}
+\end{align}$$
