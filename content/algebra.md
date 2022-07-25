@@ -16,14 +16,4 @@ Inverse|$$a+(-a)=0$$|$$a\times\frac{1}{a} = 1$$
 Identity|$$a+0=a$$|$$a\times 1 = a$$
 
 ### Distribution 
-$$a(b+c)=ab+ac$$
-
-
-### Arithmetic Operations
-$a(\frac{b}{c})=\frac{ab}{c}$
-
-$ \frac{\frac{a}{b}}{c}=\frac{a}{bc} $
-
-$\frac{a}{b} + \frac{c}{d} = \frac{ad+bc}{bd} $
-
-
+$a(b+c)=ab+ac$
