@@ -20,14 +20,10 @@ $$a(b+c)=ab+ac$$
 
 
 ### Arithmetic Operations
-$$a(\frac{b}{c})=\frac{ab}{c}$$
+$a(\frac{b}{c})=\frac{ab}{c}$
 
-$$ \frac{\frac{a}{b}}{c}=\frac{a}{bc} $$
+$ \frac{\frac{a}{b}}{c}=\frac{a}{bc} $
 
-$$\frac{a}{b} + \frac{c}{d} = \frac{ad+bc}{bd} $$
+$\frac{a}{b} + \frac{c}{d} = \frac{ad+bc}{bd} $
 
 
-## Exponent Properties 
-\begin{align}
-    $test$
-\end{align}
