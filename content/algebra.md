@@ -19,4 +19,4 @@ Identity|$$a+0=a$$|$$a\times 1 = a$$
 $a(b+c)=ab+ac$
 
 ### Distance Formula
-$d(P_1,P_2)=\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$
+$d(P_1,P_2)=\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$ Where $P_1,P_2$ are the points in question, and $P_1 := (x_1,y_1)$, and $P_2 := (x_2,y_2)$.
