@@ -20,7 +20,7 @@ $$a(b+c)=ab+ac$$
 
 
 ### Arithmetic Operations
-$$a(\frac{b}{c}=\frac{ab}{c}$$
+$$a(\frac{b}{c})=\frac{ab}{c}$$
 
 $$ \frac{\frac{a}{b}}{c}=\frac{a}{bc} $$
 
