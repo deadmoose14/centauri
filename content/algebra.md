@@ -24,4 +24,4 @@ $d(P_1,P_2)=\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$ Where $P_1,P_2$ are the points in 
 ### Linear Functions
 The word **linear** means straight, therefore a linear function represents a line. $f(x) = mx+b$ where $m$ is the slope, and $b$ is the y-intercept. 
 
-**Slope** is defined as $m=\frac{y_2-y_1}{x_2-x_1}. In fact the order in which we subtract $x_n$ and $y_n$ coordinates is irrelevant **as long as we start with the same point.**
+**Slope** is defined as $m=\frac{y_2-y_1}{x_2-x_1}$. In fact the order in which we subtract $x_n$ and $y_n$ coordinates is irrelevant **as long as we start with the same point.**
