@@ -26,7 +26,11 @@ $$ \frac{\frac{a}{b}}{c}=\frac{a}{bc} $$
 
 $$\frac{a}{b} + \frac{c}{d} = \frac{ad+bc}{bd} $$
 
+
 ## Exponent Properties 
+\begin{flalign*}
+
 $$a^{n}a^{m}=a^{n+m}$$
 
 $$(a^{n})^{m}=a^{nm}$$
+\end{falign*}
