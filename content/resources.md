@@ -16,24 +16,4 @@ MyNotes
 
 *your*Notes ;)
 
-<hr>
-
-## Arithmetic Rules
-**Def:** A **complex number** is an ordered pair $(a,b)$ where $a,b \in \mathbb{R}$, is written as $a+bi$.
-
-
-The **Gamma Function** $\Gamma(z) = \int_0^\infty t^{z-1} e^{-t}dt$
-
-### Field Axioms
-
-Let $a,b,c \in \mathbb{R}$
-
-Property | Addition | Multiplication
----------|----------|----------------
-Associativity|$$a+(b+c)=(a+b)+c$$|$$a(bc)=(ab)c$$
-Commutativity|$$a+b=b+a$$|$$ab=ba$$
-Inverse|$$a+(-a)=0$$|$$a\times\frac{1}{a} = 1$$
-Identity|$$a+0=a$$|$$a\times 1 = a$$
-
-**Distribution** $$a(b+c)=ab+ac$$
-
+[Algebra](/algebra)
