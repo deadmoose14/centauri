@@ -19,7 +19,10 @@ MyNotes
 [Algebra](/algebra)
 
 # Gauss' Divergence Theorem
-Let $$\textit{W}$$ be a symmetric elementary region in space. Denot by dW the oriented closed surface that bounds W. Let F be a smooth vector field defined on W. Then 
+Let $\textit{W}$ be a symmetric elementary region in space. Denote by $\deltaW$ the oriented closed surface that bounds \textit{W}. Let \textbf{F} be a smooth vector field defined on \textit{W}. Then:
+
+$$\iiint_{W}^{} (\Delta \cdot \textbf{F}) dV = \iint_{\deltaW}^{} \textbf{F} \cdot dS$$. 
+
 
 
 ```
