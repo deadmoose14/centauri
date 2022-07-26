@@ -6,7 +6,7 @@ $bg: {{ .Param "style.colorBlack" | default "#222222" }};
 $fg: {{ .Param "style.colorBlack" | default "#dc3545" }};
 
 // Fonts 
-$font-family: {{ .Param "style.fontFamily" | default "Inconsolata" }};
+$font-family: {{ .Param "style.fontFamily" | default "Fira Code" }};
 
 // Margins
 $y-small: 0.6rem;
