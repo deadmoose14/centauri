@@ -23,6 +23,3 @@ Let $\textit{W}$ be a symmetric elementary region in space. Denote by $\delta W$
 
 $$\iiint_{W}^{} (\Delta \cdot \textbf{F}) dV = \iint_{\delta W}^{} \textbf{F} \cdot dS$$. 
 
-
-
-```
