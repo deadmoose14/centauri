@@ -2,11 +2,16 @@
 $max-width: {{ .Param "style.pageWidth" | default "750px;" }};
 
 // Colors 
-$bg: {{ .Param "style.colorBG" | default "#191724" }};
-$fg: {{ .Param "style.colorFG" | default "#ffffff" }};
-$hr: {{ .Param "style.colorHR" | default "#524f67" }};
-$body: {{ .Param "style.colorBODY" | default "26233a"}};
-$link: #31745f;
+$bg: {{ .Param "style.colorBG" | default "#282a36" }};
+$fg: {{ .Param "style.colorFG" | default "#f8f8f2" }};
+$hr: {{ .Param "style.colorHR" | default "#44475a" }};
+$body: {{ .Param "style.colorBODY" | default "#26233a"}};
+
+$header: #6272a4;
+$link: #6272a4;
+$linkHover: #bd93f9;
+$linkDark: #908caa;
+
 // Fonts 
 $font-family: {{ .Param "style.fontFamily" | default "Fira Code" }};
 
@@ -23,24 +28,24 @@ $y-medium: 1.0rem;
         color: $link;
     }
     &:hover { 
-        color: #eb6f92;
+        color: $linkHover;
         text-decoraction: underline;
     }
 }
 %link-dark { 
-    color: #eb6f92;
+    color: $link;
     text-decoration: none;
     & * { 
-        color: #eb6f92;
+        color: $link;
     }
     &:hover { 
-        color: #eb6f92;
+        color: $linkHover;
         text-decoration: underline;
     }
 }
 %table-cell { 
-    color: #e0def4;
-    border: 1px solid #e0def4;
+    color: #f8f8f2;
+    border: 1px solid #f8f8f2;
     padding: 6px 12px;
     text-align: left;
 }
@@ -81,7 +86,7 @@ hr {
         margin-bottom: $y-small;
     }
     h1, h2, h3, h4, h5, h6 { 
-        color: #eb6f92;
+        color: $header;
         background-color: $bg;
         font-size: small;
         font-weight: bold;
@@ -172,3 +177,20 @@ hr {
     }
 }
 
+
+.breadcrumb { 
+    list-style: none;
+    display: flex;
+    asign-items: baseline;
+    background-color: $bg;
+}
+
+.breadcrumb li { 
+    display: inline;
+    white-space: nowrap;
+}
+
+.breadcrumb li + li:before {
+    content: "->";
+    padding: 0.3rem;
+}

@@ -5,6 +5,19 @@ draft: false
 ---
 
 ## Credits 
-Thanks to [Hugo](http://gohugo.io), [Netlify](http://netlify.com), [Mozilla](http://mozilla.com), and [Tonsky](http://github.com/tonsky/FiraCode) for Fira Code. 
 
+Thanks to the following:
 
+[Hugo](https://gohugo.io): For static website generation via Markdown. 
+
+[Netlify](https://netlify.com): For acting as a CDN for GitHub repos.
+
+[Mozilla](https://mozilla.com): The internet.
+
+[Tonsky](https://github.com/tonsky/FiraCode): For a wonderful monospaced font w/ ligatures. 
+
+[Dracula](https://draculatheme.com): For developing the colour pallete you're viewing right now. 
+
+<br>
+
+All notes are released under the Creative Commons BY-SA License. Go for it. 

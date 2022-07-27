@@ -6,6 +6,7 @@ draft: false
 
 <center><h1>Contact Info</h1></center>
 <center> 
+<br>
 
 E-mail: [levy_j@hcsb.k12.fl.us](mailto:levy_j@hcsb.k12.fl.us)
 
@@ -15,6 +16,3 @@ Remind: TBD
 
 </center>
 
-<center>
-I'm available from 7:00-15:00 Monday-Friday. I check e-mail at <b><i>my</i></b> discretion after hours.
-</center>
