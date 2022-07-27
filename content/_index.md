@@ -6,7 +6,7 @@ draft: false
 
 Period  | Class | Links
 --------|-------|--------
-[2](/classes/period2)| TBD   | TBD 
+[2](/classes/period2)| TBD   | [Test](/notes/hello.pdf)
 3       | TBD   | TBD 
 4       | TBD   | TBD 
 5       | TBD   | TBD 
