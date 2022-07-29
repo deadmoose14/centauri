@@ -22,7 +22,7 @@ F 59-0  |
 Grading is rounded to the nearest **tenth** and will be uploadly weekly. 
 
 ## Turn in Dates/Important Days of the Week
-* **In class assignments**: Are due the folling day. 
+* **In class assignments**: Are due the following day. 
 
 * **Homework**: Let n be any given week. Homework is due on Tuesday of week n+1.
 * **Wednesday**: Is reserved for quizzes[^1].
