@@ -32,21 +32,13 @@ math = true
         url = "/"
         weight = 1
     [[menu.main]]
-        name = "Assignments"
-        url = "/assignments"
-        weight = 2
-    [[menu.main]]
-        name = "Classes"
-        url = "/Classes"
-        weight = 3
-    [[menu.main]]
         name = "Resources"
         url = "/resources"
-        weight = 4
+        weight = 2
     [[menu.main]]
         name = "Contact"
         url = "/contact"
-        weight = 5
+        weight = 3
 
 [markup.goldmark.renderer]
     unsafe = true 
