@@ -44,14 +44,19 @@ Let me show you **by example.**
 
 ### Correct Solution
 $2x + 2 = 3$
-$2x = 1$ Subtracted 2 from both sides.
-$x = \frac{1}{2}$ Divided by 2. 
+
+$2x = 1$    Subtracted 2 from both sides.
+
+$x = \frac{1}{2}$   Divided by 2. 
 
 A correct solution provides all necessary information to tell the reader *what* you did. A solution like this receives full credit.
+
 ### Incorrect solution (Partial Credit)
 $2x + 2 = 3$
+
 ### Wrong Solution (No Credit)
 $2x + 2 = 3$
+
 $x = 0$
 
 Any solution that simply states an answer is not a solution. It's an *assertion* of an answer. You provided no sequence of instructions that helps the reader understand *what* you did. This would receive *zero* credit.
