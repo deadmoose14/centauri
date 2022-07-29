@@ -15,6 +15,12 @@ B 89-80 |   Summative Assessments 40%
 C 79-70 |   Classwork/Homework 20% 
 D 69-60 |   Quarter Final 10%
 F 59-0  |
+a       | B 
+a       | B 
+a       | B 
+a       | B 
+a       | B 
+a       | B 
 
 * **Formative** - Quizzes, Participation.
 * **Summative** - Tests, Projects.
@@ -28,8 +34,8 @@ Grading is rounded to the nearest **tenth** and will be uploadly weekly.
 * **Wednesday**: Is reserved for quizzes[^1].
 
 ## Late Work
-Late work may be submitted if and only if you have an excused/unexcused absence. The amount of extra time is dependent on whether or not you've been *excused*. 
-
+Late work may be submitted **if and only** if you have an excused/unexcused absence. The amount of extra time is dependent on whether or not you've been *excused*. 
+> TESTING 10101010
 ```plaintext
 if (absence != excused)
     time = 2 days
@@ -62,6 +68,3 @@ $x = 0$
 Any solution that simply states an answer is not a solution. It's an *assertion* of an answer. You provided no sequence of instructions that helps the reader understand *what* you did. This would receive *zero* credit.
 
 [^1]: I reserve the right to change the syllabus, however, I will **only** make changes that benefit the student. This reservation is in place primarily for situations where I need to reschedule/postpone scheduled assignments, e.g., tests/quizzes to another day. 
-
-
-

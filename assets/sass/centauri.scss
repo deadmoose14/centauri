@@ -13,7 +13,7 @@ $linkHover: #bd93f9;
 $linkDark: #908caa;
 
 // Fonts 
-$font-family: {{ .Param "style.fontFamily" | default "Fira Code" }};
+$font-family: {{ .Param "style.fontFamily" | default "Inter" }};
 
 // Margins
 $y-small: 0.6rem;
@@ -45,18 +45,18 @@ $y-medium: 1.0rem;
 }
 %table-cell { 
     color: #f8f8f2;
-    border: 2px solid #44475a;
+    border: 2px solid #282a36;
     padding: 6px 12px;
     text-align: left;
 }
 
 body { 
+    font-family: $font-family;
     background-color: $bg;
 }
 
 // Style 
 * { 
-    background-color: $bg;
     color: $fg;
     font-family: $font-family;
     line-height: 1.2;
@@ -144,10 +144,11 @@ hr {
             font-weight: bold;
         }
         & td { 
+            border: #282a36;
             @extend %table-cell;
         }
         & tr:nth-child(2n) { 
-            background-color: #f8f8f2;
+            background-color: #44475a;
         }
     }
     blockquote { 
@@ -174,14 +175,13 @@ hr {
         }
     }
 }
+
 #footer { 
     a { 
         background-color: $bg; 
         @extend %link-dark;
     }
 }
-
-
 .breadcrumb { 
     list-style: none;
     display: flex;

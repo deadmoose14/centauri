@@ -5,15 +5,16 @@ draft: false
 ---
 <center>
 
-[P2](/p2) | [P3](/p3) | [P4](/p4) | [P5](/p5) | [P6](/p6) | [P7](/p7)
+[P2](/p2) | [P3](/p3) | [P4](/p4) | [P5](/p5) | [P6](/p6) | [P7](/p7) | 
 
 </center>
 
 <hr>
 
-# Updates
+### Field Axioms 
 Below are quick links for assignments released *this week*. All previous assignments are listed on your periods page. 
-# Aug 16-18
+
+### Aug 16-18
 * Period 2: [Link](/period2)
     - Monday: [Notes](/notes/hello.pdf) [Assignment](/assignments/p2/10aug)
 

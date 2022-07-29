@@ -14,7 +14,7 @@ math = true
         text1 = "test" # add {{.text}} to footer partial if needed
         url = "http://github.com/deadmoose14"
     [params.style] # appearance settings, links to scss in assets
-        fontFamily = "Fira Code"
+        fontFamily = "Inter"
         pageWidth = "750px"
         colorBG = "#282a36"
         colorFG = "#f8f8f2"
@@ -42,3 +42,8 @@ math = true
 
 [markup.goldmark.renderer]
     unsafe = true 
+
+[markup]
+    [markup.highlight]
+        style = 'dracula'
+        codeFences = true
