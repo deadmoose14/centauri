@@ -11,20 +11,52 @@ draft: false
 
 <hr>
 
-### Field Axioms 
-Below are quick links for assignments released *this week*. All previous assignments are listed on your periods page. 
+### Weekly Assignments/Notes
 
-### Aug 16-18
-* Period 2: [Link](/period2)
-    - Monday: [Notes](/notes/hello.pdf) [Assignment](/assignments/p2/10aug)
+Period 2 | Assignment | Homework| Notes
+:-       |:-          |:-       |:-
+Monday   |            |         |
+Tuesday  |            |         |
+Wednesday|            |         |
+Thursday |            |         |
+Friday   |            |         |
 
-Period  | Class | Links
---------|-------|--------
-[2](/period2)| TBD   | [Test](/notes/hello.pdf)
-3       | TBD   | TBD 
-4       | TBD   | TBD 
-5       | TBD   | TBD 
-6       | TBD   | TBD 
-7       | TBD   | TBD 
+Period 3 | Assignment | Homework| Notes
+:-       |:-          |:-       |:-
+Monday   |            |         |
+Tuesday  |            |         |
+Wednesday|            |         |
+Thursday |            |         |
+Friday   |            |         |
 
-![Lol](/surprise.png)
+Period 4 | Assignment | Homework| Notes
+:-       |:-          |:-       |:-
+Monday   |            |         |
+Tuesday  |            |         |
+Wednesday|            |         |
+Thursday |            |         |
+Friday   |            |         |
+
+Period 5 | Assignment | Homework| Notes
+:-       |:-          |:-       |:-
+Monday   |            |         |
+Tuesday  |            |         |
+Wednesday|            |         |
+Thursday |            |         |
+Friday   |            |         |
+
+Period 6 | Assignment | Homework| Notes
+:-       |:-          |:-       |:-
+Monday   |            |         |
+Tuesday  |            |         |
+Wednesday|            |         |
+Thursday |            |         |
+Friday   |            |         |
+
+Period 7 | Assignment | Homework| Notes
+:-       |:-          |:-       |:-
+Monday   |            |         |
+Tuesday  |            |         |
+Wednesday|            |         |
+Thursday |            |         |
+Friday   |            |         |

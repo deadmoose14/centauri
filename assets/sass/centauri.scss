@@ -45,7 +45,7 @@ $y-medium: 1.0rem;
 }
 %table-cell { 
     color: #f8f8f2;
-    border: 2px solid #282a36;
+    border: 2px solid #44475a;
     padding: 6px 12px;
     text-align: left;
 }
@@ -144,7 +144,6 @@ hr {
             font-weight: bold;
         }
         & td { 
-            border: #282a36;
             @extend %table-cell;
         }
         & tr:nth-child(2n) { 

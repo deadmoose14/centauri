@@ -15,12 +15,6 @@ B 89-80 |   Summative Assessments 40%
 C 79-70 |   Classwork/Homework 20% 
 D 69-60 |   Quarter Final 10%
 F 59-0  |
-a       | B 
-a       | B 
-a       | B 
-a       | B 
-a       | B 
-a       | B 
 
 * **Formative** - Quizzes, Participation.
 * **Summative** - Tests, Projects.
