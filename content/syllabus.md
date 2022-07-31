@@ -1,6 +1,7 @@
 ---
 title: "Syllabus"
 date: 2022-07-29T11:13:48-04:00
+math: true
 draft: false
 ---
 
