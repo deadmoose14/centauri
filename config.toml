@@ -1,5 +1,5 @@
 title = ""
-baseURL = "http://example.org/"
+baseURL = "https://jdlmath.com"
 languageCode = 'en-us'
 theme = "centauri"
 disableKinds = ["term"]
