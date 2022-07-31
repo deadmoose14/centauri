@@ -3,6 +3,10 @@ title: ""
 date: 2022-07-23T17:51:55-04:00
 draft: false
 ---
+## Announcements
+**Friday**: All classes will have a skills assessment.
+
+
 ### Weekly Assignments/Notes
 
 * [2nd Period](/p2/)
