@@ -29,7 +29,7 @@ Grading is rounded to the nearest **tenth** and will be uploadly weekly.
 * **Wednesday**: Is reserved for quizzes[^1].
 
 ## Late Work
-Late work may be submitted **if and only** if you have an excused/unexcused absence. The amount of extra time is dependent on whether or not you've been *excused*. 
+Late work may be submitted **if and only if **you have an excused/unexcused absence. The amount of extra time is dependent on whether or not you've been *excused*. 
 
 ```plaintext
 if (absence != excused)
@@ -44,17 +44,30 @@ First and foremost just *try your best*. My assessment of your work is heavily b
 Let me show you **by example.** 
 
 ## Correct Solution
-$2x + 2 = 3$
+$$2x + 2 = 3$$
 
-$2x = 1$    Subtracted 2 from both sides.
+$$2x = 1$$
 
-$x = \frac{1}{2}$   Divided by 2. 
+Subtracted 2 from both sides.
+
+$$x = \frac{1}{2}$$   
+
+Divided by 2. 
 
 A correct solution provides all necessary information to tell the reader *what* you did. A solution like this receives full credit.
 
 ## Incorrect solution (Partial Credit)
-$2x + 2 = 3$
+$$2x + 2 = 3$$
 
+$$2x = 1$$
+
+Subtracted 2.
+
+$$x = -1$$
+
+Subtracted 2 from $2x$.
+
+Work was show. The student demonstrated what they did, however, they made some errors. In this case partial credit is granted, since they have a grasp at what to do with the exception that they made a mistake.
 ## Wrong Solution (No Credit)
 $2x + 2 = 3$
 
