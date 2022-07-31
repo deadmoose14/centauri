@@ -2,15 +2,15 @@
 $max-width: {{ .Param "style.pageWidth" | default "750px;" }};
 
 // Colors 
-$bg: {{ .Param "style.colorBG" | default "#161b22" }};
-$fg: {{ .Param "style.colorFG" | default "#ecf2f8" }};
-$hr: {{ .Param "style.colorHR" | default "#89929b" }};
+$bg: {{ .Param "style.colorBG" | default "#0d1117" }};
+$fg: {{ .Param "style.colorFG" | default "#c9d1d9" }};
+$hr: {{ .Param "style.colorHR" | default "#21262d" }};
 $body: {{ .Param "style.colorBODY" | default "#26233a"}};
 
-$header: #a2d2fb;
-$link: #77bdfb;
-$linkHover: #fa7970;
-$linkDark: #fa7970;
+$header: #c9d1d9;
+$link: #89929b;
+$linkHover: #faa356;
+$linkDark: #faa356;
 
 // Fonts 
 $font-family: {{ .Param "style.fontFamily" | default "Inter" }};
@@ -45,14 +45,14 @@ $y-medium: 1.0rem;
 }
 %table-cell { 
     color: #ecf2f8;
-    border: 2px solid #161b22;
+    border: 2px solid #21262d;
     padding: 6px 12px;
     text-align: left;
 }
 
 body { 
     font-family: $font-family;
-    background-color: #161b22;
+    background-color: #0d1117;
 }
 
 // Style 
@@ -77,7 +77,7 @@ hr {
     @extend %link-default;
 }
 #content { 
-    background-color: #161b22;
+    background-color: #0d1117;
     a { 
         @extend %link-default;
     }
@@ -147,7 +147,7 @@ hr {
             @extend %table-cell;
         }
         & tr:nth-child(2n) { 
-            background-color: #89929b;
+            background-color: #21262d;
         }
     }
     blockquote { 
