@@ -2,7 +2,7 @@
 <div class="container">
     <h1>{{ .Title}} </h1>
     {{ .Content }} 
-    <h1>Previous Assignments</h1>
+    <h1>Previous Notes</h1>
     <ul>
         {{ range .Pages.ByPublishDate.Reverse }} 
             <li><a href="{{ .Permalink}}">{{ .Date.Format "2006-01-02" }} | {{ .Title }}</a></li>

@@ -2,7 +2,7 @@ title = ""
 baseURL = "http://example.org/"
 languageCode = 'en-us'
 theme = "centauri"
-disableKinds = ["taxonomy", "term"]
+disableKinds = ["term"]
 math = true
 
 [params]
@@ -16,8 +16,8 @@ math = true
     [params.style] # appearance settings, links to scss in assets
         fontFamily = "Inter"
         pageWidth = "750px"
-        colorBG = "#282a36"
-        colorFG = "#f8f8f2"
+        colorBG = "#161b22"
+        colorFG = "#ecf2f8"
     [[params.socialIcons]]
         icon = "fas fa-envelope"
         title = "E-mail"
