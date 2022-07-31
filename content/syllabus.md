@@ -29,7 +29,7 @@ Grading is rounded to the nearest **tenth** and will be uploadly weekly.
 
 ## Late Work
 Late work may be submitted **if and only** if you have an excused/unexcused absence. The amount of extra time is dependent on whether or not you've been *excused*. 
-> TESTING 10101010
+
 ```plaintext
 if (absence != excused)
     time = 2 days
@@ -42,7 +42,7 @@ First and foremost just *try your best*. My assessment of your work is heavily b
 
 Let me show you **by example.** 
 
-### Correct Solution
+## Correct Solution
 $2x + 2 = 3$
 
 $2x = 1$    Subtracted 2 from both sides.
@@ -51,10 +51,10 @@ $x = \frac{1}{2}$   Divided by 2.
 
 A correct solution provides all necessary information to tell the reader *what* you did. A solution like this receives full credit.
 
-### Incorrect solution (Partial Credit)
+## Incorrect solution (Partial Credit)
 $2x + 2 = 3$
 
-### Wrong Solution (No Credit)
+## Wrong Solution (No Credit)
 $2x + 2 = 3$
 
 $x = 0$

@@ -7,13 +7,13 @@ $fg: {{ .Param "style.colorFG" | default "#c9d1d9" }};
 $hr: {{ .Param "style.colorHR" | default "#21262d" }};
 $body: {{ .Param "style.colorBODY" | default "#26233a"}};
 
-$header: #c9d1d9;
+$header: #ffffff;
 $link: #faa356;
 $linkHover: #89929b;
 $linkDark: #faa356;
 
 // Fonts 
-$font-family: {{ .Param "style.fontFamily" | default "Fira Code" }};
+$font-family: {{ .Param "style.fontFamily" | default "Inter" }};
 
 // Margins
 $y-small: 0.6rem;
