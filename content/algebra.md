@@ -1,6 +1,7 @@
 ---
 title: "Algebra"
 date: 2022-07-24T23:29:07-04:00
+math: true
 draft: false
 ---
 
