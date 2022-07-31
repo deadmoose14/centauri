@@ -61,17 +61,13 @@ $$2x + 2 = 3$$
 
 $$2x = 1$$
 
-Subtracted 2.
-
 $$x = -1$$
-
-Subtracted 2 from $2x$.
 
 Work was show. The student demonstrated what they did, however, they made some errors. In this case partial credit is granted, since they have a grasp at what to do with the exception that they made a mistake.
 ## Wrong Solution (No Credit)
-$2x + 2 = 3$
+$$2x + 2 = 3$$
 
-$x = 0$
+$$x = 0$$
 
 Any solution that simply states an answer is not a solution. It's an *assertion* of an answer. You provided no sequence of instructions that helps the reader understand *what* you did. This would receive *zero* credit.
 
