@@ -6,15 +6,6 @@ draft: false
 ## Announcements
 **Friday**: All classes will have a skills assessment.
 
-```C
-#include <stdio.h>
-#include <stdlib.h>
-
-int main(int argc, char **argv)
-{
-    return 0;
-}
-```
 ### Weekly Assignments/Notes
 
 * [2nd Period](/p2/)
