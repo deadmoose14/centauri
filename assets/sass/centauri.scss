@@ -8,12 +8,12 @@ $hr: {{ .Param "style.colorHR" | default "#21262d" }};
 $body: {{ .Param "style.colorBODY" | default "#26233a"}};
 
 $header: #c9d1d9;
-$link: #89929b;
-$linkHover: #faa356;
+$link: #faa356;
+$linkHover: #89929b;
 $linkDark: #faa356;
 
 // Fonts 
-$font-family: {{ .Param "style.fontFamily" | default "Inter" }};
+$font-family: {{ .Param "style.fontFamily" | default "Fira Code" }};
 
 // Margins
 $y-small: 0.6rem;
