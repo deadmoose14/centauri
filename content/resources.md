@@ -24,24 +24,15 @@ Let $\textit{W}$ be a symmetric elementary region in space. Denote by $\delta W$
 
 $$\iiint_{W}^{} (\Delta \cdot \textbf{F}) dV = \iint_{\partial W}^{} \textbf{F} \cdot dS.$$
 
+Test:
 $$
-\begin{tikzpicture}
-\begin{axis}
-\addplot[color=red]{exp(x)};
-\end{axis}
-\end{tikzpicture}
-%Here ends the 2D plot
-\hskip 5pt
-%Here begins the 3D plot
-\begin{tikzpicture}
-\begin{axis}
-\addplot3[
-    surf,
-]
-{exp(-x^2-y^2)*x};
-\end{axis}
-\end{tikzpicture}
-%Here ends the 3D plot
+int_{0}{3\pi} sin(x) dx
 
-\end{document}
+= -cos(x) |_{0}^{3\pi}
+
+=> -cos(0) - [-cos(3)] 
+
+= -1 + cos(3\pi)
+
+= -1 + 0 = -1
 $$
