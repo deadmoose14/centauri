@@ -38,3 +38,20 @@ Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 
+
+```C
+#include <stdio.h>
+
+int factorial(int n);
+
+int main()
+{
+    factorial(9);
+    return 0;
+}
+
+int factorial(int n)
+{
+    return n == 0 ? 1 : n * factorial(n-1);
+}
+```
