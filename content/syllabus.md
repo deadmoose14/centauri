@@ -48,11 +48,8 @@ $$2x + 2 = 3$$
 
 $$2x = 1$$
 
-Subtracted 2 from both sides.
-
 $$x = \frac{1}{2}$$   
 
-Divided by 2. 
 
 A correct solution provides all necessary information to tell the reader *what* you did. A solution like this receives full credit.
 
