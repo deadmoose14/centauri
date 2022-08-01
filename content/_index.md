@@ -8,43 +8,33 @@ draft: false
 
 ### Weekly Assignments/Notes
 
-* [2nd Period](/p2/)
-    - Monday: [test]()
-    - Tuesday: N/A
-    - Wednesday:
-        - Syllabus 
-        - Notes
-    - Thursday:
-        - Assignment
-        - Notes
-    - Friday: Assessment Quiz, Notes
-* [3rd Period](/p3/)
-    - Monday: N/A
-    - Tuesday: N/A
-    - Wednesday: Syllabus, Notes
-    - Thursday: Notes
-    - Friday: Assessment Quiz, Notes
-* [4th Period](/p4)
-    - Monday: N/A
-    - Tuesday: N/A
-    - Wednesday: Syllabus, Notes
-    - Thursday: Notes
-    - Friday: Assessment Quiz, Notes
-* [5th Period](/p5/)
-    - Monday: N/A
-    - Tuesday: N/A
-    - Wednesday: Syllabus, Notes
-    - Thursday: Notes
-    - Friday: Assessment Quiz, Notes
-* [6th Period](/p6/)
-    - Monday: N/A
-    - Tuesday: N/A
-    - Wednesday: Syllabus, Notes
-    - Thursday: Notes
-    - Friday: Assessment Quiz, Notes
-* [7th Period](/p7/)
-    - Monday: N/A
-    - Tuesday: N/A
-    - Wednesday: Syllabus, Notes
-    - Thursday: Notes
-    - Friday: Assessment Quiz, Notes
+[Period 2](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+:-       |:-      |:-       |:-         |:-        |:-
+Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
+Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
+
+[Period 3](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+:-       |:-      |:-       |:-         |:-        |:-
+Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
+Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
+
+[Period 4](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+:-       |:-      |:-       |:-         |:-        |:-
+Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
+Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
+
+[Period 5](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+:-       |:-      |:-       |:-         |:-        |:-
+Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
+Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
+
+[Period 6](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+:-       |:-      |:-       |:-         |:-        |:-
+Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
+Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
+
+[Period 7](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+:-       |:-      |:-       |:-         |:-        |:-
+Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
+Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
+

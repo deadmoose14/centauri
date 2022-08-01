@@ -18,7 +18,6 @@ MyNotes
 
 [Algebra](/algebra)
 
-<!--
 # Gauss' Divergence Theorem
 Let $\textit{W}$ be a symmetric elementary region in space. Denote by $\delta W$ the oriented closed surface that bounds \textit{W}. Let \textbf{F} be a smooth vector field defined on \textit{W}. Then:
 
@@ -30,4 +29,3 @@ Or, $\iint_{W}^{}(div F)dV = \iint_{\delta W}^{} (\textit{F} \cdot \textit{n}) d
 
 $$\iiint_{W} div \textit{F} dV = \iiint_{W}{} \frac{\delta P}{\delta x} dV + \iiint_{W}^{} \frac{\delta Q}{\delta y} dV + \iiint_{W}{} \frac{\delta R}{\delta z} dV. $$
 
--->
