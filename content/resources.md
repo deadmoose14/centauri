@@ -24,9 +24,22 @@ Let $\textit{W}$ be a symmetric elementary region in space. Denote by $\delta W$
 
 $$\iiint_{W}^{} (\Delta \cdot \textbf{F}) dV = \iint_{\partial W}^{} \textbf{F} \cdot dS.$$
 
-Or, $\iint_{W}^{}(div F)dV = \iint_{\delta W}^{} (\textit{F} \cdot \textit{n}) dS.$
+$$\begin{tikzpicture}
+\begin{axis}
+\addplot[color=red]{exp(x)};
+\end{axis}
+\end{tikzpicture}
+%Here ends the 2D plot
+\hskip 5pt
+%Here begins the 3D plot
+\begin{tikzpicture}
+\begin{axis}
+\addplot3[
+    surf,
+]
+{exp(-x^2-y^2)*x};
+\end{axis}
+\end{tikzpicture}
+%Here ends the 3D plot
 
-**Proof** If **F**=P**i** + Q**j** + R**k**, then by definition, the divergence of **F** is given by div **F** = $\partial P$/$\partial x$ + $\partial Q$/$\partial y$ + $\partial R$/$\partial z$, or:
-
-$$\iiint_{W} div \textit{F} dV = \iiint_{W}{} \frac{\delta P}{\delta x} dV + \iiint_{W}^{} \frac{\delta Q}{\delta y} dV + \iiint_{W}{} \frac{\delta R}{\delta z} dV. $$
-
+\end{document}$$
