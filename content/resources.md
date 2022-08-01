@@ -1,6 +1,7 @@
 ---
 title: "Resources"
 date: 2022-07-24T16:19:23-04:00
+math: true
 draft: false
 ---
 
