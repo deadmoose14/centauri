@@ -29,7 +29,7 @@ Grading is rounded to the nearest **tenth** and will be uploadly weekly.
 * **Wednesday**: Is reserved for quizzes[^1].
 
 ## Late Work
-Late work may be submitted **if and only if **you have an excused/unexcused absence. The amount of extra time is dependent on whether or not you've been *excused*. 
+Late work may be submitted **if and only if** you have an excused/unexcused absence. The amount of extra time is dependent on whether or not you've been *excused*. 
 
 ```plaintext
 if (absence != excused)
