@@ -25,6 +25,7 @@ Let $\textit{W}$ be a symmetric elementary region in space. Denote by $\delta W$
 $$\iiint_{W}^{} (\Delta \cdot \textbf{F}) dV = \iint_{\partial W}^{} \textbf{F} \cdot dS.$$
 
 Test:
+
 $$
 int_{0}{3\pi} sin(x) dx
 
