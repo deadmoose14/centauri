@@ -24,7 +24,8 @@ Let $\textit{W}$ be a symmetric elementary region in space. Denote by $\delta W$
 
 $$\iiint_{W}^{} (\Delta \cdot \textbf{F}) dV = \iint_{\partial W}^{} \textbf{F} \cdot dS.$$
 
-$$\begin{tikzpicture}
+$$
+\begin{tikzpicture}
 \begin{axis}
 \addplot[color=red]{exp(x)};
 \end{axis}
@@ -42,4 +43,5 @@ $$\begin{tikzpicture}
 \end{tikzpicture}
 %Here ends the 3D plot
 
-\end{document}$$
+\end{document}
+$$
