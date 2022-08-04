@@ -6,7 +6,7 @@ draft: false
 ---
 
 # Syllabus TLDR
-Below are the most important aspects of our syllabus. I've decided to provide a truncated version of the syllbas so that you may reference it on your own.
+Below are the most important aspects of our syllabus. I've decided to provide a truncated version of the syllabus so that you may reference it on your own.
 
 ## Grading 
 Scale   |   Quarter Grade
