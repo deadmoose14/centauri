@@ -4,7 +4,6 @@ date: 2022-07-23T17:51:55-04:00
 draft: false
 ---
 ## Announcements
-Hi Mr. Fisher
 **Friday**: All classes will have a skills assessment.
 
 ### Weekly Assignments/Notes
