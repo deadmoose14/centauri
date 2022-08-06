@@ -13,27 +13,27 @@ draft: false
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 
-[Period 3](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+[Period 3](/p3)| Monday | Tuesday | Wednesday | Thursday | Friday
 :-       |:-      |:-       |:-         |:-        |:-
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 
-[Period 4](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+[Period 4](/p4)| Monday | Tuesday | Wednesday | Thursday | Friday
 :-       |:-      |:-       |:-         |:-        |:-
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 
-[Period 5](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+[Period 5](/p5)| Monday | Tuesday | Wednesday | Thursday | Friday
 :-       |:-      |:-       |:-         |:-        |:-
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 
-[Period 6](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+[Period 6](/p6)| Monday | Tuesday | Wednesday | Thursday | Friday
 :-       |:-      |:-       |:-         |:-        |:-
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 
-[Period 7](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+[Period 7](/p7)| Monday | Tuesday | Wednesday | Thursday | Friday
 :-       |:-      |:-       |:-         |:-        |:-
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
