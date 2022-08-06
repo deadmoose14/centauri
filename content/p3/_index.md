@@ -5,6 +5,6 @@ draft: false
 ---
 
 # Financial Algebra
-[Syllabus]() | [Resources]() | [Notes Archive]()
+[Syllabus](/syllabus/MFL_Syllabus.pdf) | [Resources]() | [Notes Archive]()
 
 
