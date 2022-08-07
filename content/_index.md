@@ -4,36 +4,36 @@ date: 2022-07-23T17:51:55-04:00
 draft: false
 ---
 ## Announcements
-**Friday**: All classes will have a skills assessment.
+Welcome to Tartarus. 
 
 ### Weekly Assignments/Notes
 
-[Period 2](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
+[2. Statistics](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
 :-       |:-      |:-       |:-         |:-        |:-
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 
-[Period 3](/p3)| Monday | Tuesday | Wednesday | Thursday | Friday
+[3. Financial Literacy](/p3)| Monday | Tuesday | Wednesday | Thursday | Friday
 :-       |:-      |:-       |:-         |:-        |:-
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 
-[Period 4](/p4)| Monday | Tuesday | Wednesday | Thursday | Friday
+[4. Algebra 1](/p4)| Monday | Tuesday | Wednesday | Thursday | Friday
 :-       |:-      |:-       |:-         |:-        |:-
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 
-[Period 5](/p5)| Monday | Tuesday | Wednesday | Thursday | Friday
+[5. Financial Literacy](/p5)| Monday | Tuesday | Wednesday | Thursday | Friday
 :-       |:-      |:-       |:-         |:-        |:-
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 
-[Period 6](/p6)| Monday | Tuesday | Wednesday | Thursday | Friday
+[6. Financial Literacy](/p6)| Monday | Tuesday | Wednesday | Thursday | Friday
 :-       |:-      |:-       |:-         |:-        |:-
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
 
-[Period 7](/p7)| Monday | Tuesday | Wednesday | Thursday | Friday
+[7. Financial Literacy](/p7)| Monday | Tuesday | Wednesday | Thursday | Friday
 :-       |:-      |:-       |:-         |:-        |:-
 Assignments|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()|[Assignment]()
 Notes|[Notes]()|[Notes]()|[Notes]()|[Notes]()|[Notes]()
