@@ -6,6 +6,7 @@ draft: false
 ## Announcements
 Welcome to Tartarus. 
 
+Test
 ### Weekly Assignments/Notes
 
 [2. Statistics](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
