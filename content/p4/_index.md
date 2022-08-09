@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Algebra 1
-[Syllabus](/syllabus/Algebra_1_Syllabus.pdf) | [Resources]() | [Notes Archive]()
+[Syllabus](/syllabus/Algebra_1_Syllabus.pdf) | [Resources]() | [Notes Archive](/notes/period4)
 
 
 
