@@ -12,7 +12,7 @@ E-mail: [levy_j@hcsb.k12.fl.us](mailto:levy_j@hcsb.k12.fl.us)
 
 Phone: [352-797-7010, ext. 200](tel:3527977010,200)
 
-Remind: No.
+Remind: No. Use a planner. 
 
 </center>
 

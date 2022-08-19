@@ -4,8 +4,7 @@ date: 2022-07-23T17:51:55-04:00
 draft: false
 ---
 ## Announcements
-Welcome to Tartarus. 
-
+Algebra 1 Homework: [Here](/alg1hw.pdf)
 ### Weekly Assignments/Notes
 
 [2. Statistics](/p2)| Monday | Tuesday | Wednesday | Thursday | Friday
